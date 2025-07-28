@@ -1,8 +1,8 @@
 Nothing special, just a FiveM script that detects susano, this script was made by me.
 
 # Contact
-Discord: babybauv2
+Discord: kinobau
 
-Mail: hammerentertainmentinfo@gmail.com
+Mail: contact@mans-best.info
 
 discord.gg/refineac
