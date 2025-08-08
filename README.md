@@ -4,5 +4,3 @@ Nothing special, just a FiveM script that detects susano, this script was made b
 Discord: kinobau
 
 Mail: contact@kinobau.dev
-
-discord.gg/refineac
