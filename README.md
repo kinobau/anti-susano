@@ -3,6 +3,6 @@ Nothing special, just a FiveM script that detects susano, this script was made b
 # Contact
 Discord: kinobau
 
-Mail: contact@mans-best.info
+Mail: contact@kinobau.dev
 
 discord.gg/refineac
